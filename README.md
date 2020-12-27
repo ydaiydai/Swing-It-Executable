@@ -1,4 +1,4 @@
-# Swing-It-
+# Swing It! downloadable
 Submitted for LA Hacks 2019.
 It is a first-person action game demo. Player can swing around levels like Spider-Man. There are three levels. The player need to complete different mission in each one of them.
 
